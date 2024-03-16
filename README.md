@@ -7,6 +7,7 @@
 I'm a CSE Sophomore at Cochin University of Science and Technology.
 
 ## 🌐Social Media Links
+Stay in touch with me via my social media profiles 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/treesa-george-6b719b242)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_treesa_george)
 
